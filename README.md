@@ -39,6 +39,7 @@ Find the total number of possible special sequences of numbers.
 
 ## Installation
 Clone the Project:
+
 1-) git clone https://github.com/Semihkulekcioglu/Data-Structures-and-Algorithms-2---Major-Assignment.git
 
 2-) Ensure that the C++ compiler (e.g., g++), the C++ compiler environment (e.g., GCC), and necessary dependencies for the compilation process are installed.
