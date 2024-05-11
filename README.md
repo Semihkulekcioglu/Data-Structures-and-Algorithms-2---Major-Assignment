@@ -51,7 +51,9 @@ Each problem has a separate C++ file with instructions at the beginning for solv
 To solve any problem, follow these steps:
 
 1-) Open the relevant C++ file.
+
 2-) Compile the file: g++ Problem_1.cpp -o Problem_1.
+
 3-) Run the resulting executable: ./Problem_1.
 
 
